@@ -7,7 +7,7 @@ Covi-Bot is designed to assist in hospitals during challenging situations such a
 - Microcontroller: Arduino Nano
 - Servo
 - DC Motors
-- Motor driver
+- Motor Driver
 
 ## Repository Content
 
