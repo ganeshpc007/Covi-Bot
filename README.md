@@ -5,6 +5,7 @@ Covi-Bot is designed to assist in hospitals during challenging situations such a
 ## Components Used
 
 - Microcontroller: Arduino Nano
+- Infrared Sensors
 - Servo
 - DC Motors
 - Motor Driver
